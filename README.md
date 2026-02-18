@@ -3,5 +3,11 @@
 # tsw-plugin-categorizer
 WP concept for adding categories to admin plugins.php page.
 
-Requires at least: 4.9
-Tested up to: 6.5
+
+    Requires PHP: 7.4
+    Requires CP: 1.4
+    Version: 1.0.1
+    Author: YourNameIdentity
+    Tags: plugins, tools, categories, translation-ready
+    License: GPL 3 (see LICENSE)
+    Text domain: tsw-plugin-categorizer
