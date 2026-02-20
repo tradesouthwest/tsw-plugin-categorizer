@@ -1,4 +1,4 @@
-<div class="wrap">
+<div class="wrap"><-- TPC/templates/admin-page -->
     <h1><?php esc_html_e( 'Plugin Categorizer', 'tpc-plugin-categorizer' ); ?></h1>
     <p><?php esc_html_e( 'Categorize your installed plugins for better organization and management.', 'tpc-plugin-categorizer' ); ?></p>
 
