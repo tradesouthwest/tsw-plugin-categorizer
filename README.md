@@ -3,8 +3,8 @@
 # tsw-plugin-categorizer
 WP concept for adding categories to admin plugins.php page.
 
-
-    Requires PHP: 7.4
+@package TPCPlugin
+    Requires PHP: 8.2
     Requires CP: 1.4
     Version: 1.0.1
     Author: YourNameIdentity
